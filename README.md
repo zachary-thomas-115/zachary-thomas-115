@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zachary-thomas-115
+- 👋 Hi, I’m @zachary-thomas-115 (or just Zach)
 - 👀 I’m interested in: gaming and cooking.  
 - 🌱 I’m currently learning: React
 - 💞️ I’m looking to collaborate on: any open source project, I am a new software developer so I want to acquire more skills.
